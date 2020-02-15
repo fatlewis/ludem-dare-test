@@ -1,2 +1,2 @@
-# unity-project-base
-A basic setup for developing Unity projects
+# ludem-dare-test
+A basic setup for developing Unity projects.
